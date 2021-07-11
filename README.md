@@ -1,6 +1,6 @@
 # 2021 Tokyo assembly elections
 
-[percentages](out.png)
+![percentages](out.png)
 
 
 ## Steps to reproduce
