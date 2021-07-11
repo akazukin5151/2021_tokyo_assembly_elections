@@ -1,0 +1,1297 @@
+[
+  {
+    "name": "千代田区",
+    "results": [
+      {
+        "num_votes": "8,149\n35.7%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "7,240\n31.7%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "4,278\n18.7%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "3,189\n14.0%",
+        "party": "共産"
+      }
+    ]
+  },
+  {
+    "name": "中央区",
+    "results": [
+      {
+        "num_votes": "19,272\n37.5%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "14,042\n27.3%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "10,251\n19.9%",
+        "party": "立民"
+      },
+      {
+        "num_votes": "7,839\n15.2%",
+        "party": "維新"
+      }
+    ]
+  },
+  {
+    "name": "港区",
+    "results": [
+      {
+        "num_votes": "19,041\n28.8%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "18,254\n27.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "11,643\n17.6%",
+        "party": "立民"
+      },
+      {
+        "num_votes": "7,694\n11.6%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "4,093\n6.2%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "3,224\n4.9%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "1,242\n1.9%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "946\n1.4%",
+        "party": "無所属"
+      }
+    ]
+  },
+  {
+    "name": "新宿区",
+    "results": [
+      {
+        "num_votes": "20,397\n18.3%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "18,764\n16.9%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "17,410\n15.7%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "15,386\n13.8%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "14,469\n13.0%",
+        "party": "立民（社）"
+      },
+      {
+        "num_votes": "12,951\n11.6%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "4,714\n4.2%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "4,577\n4.1%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "1,620\n1.5%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "523\n0.5%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "356\n0.3%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "文京区",
+    "results": [
+      {
+        "num_votes": "30,815\n35.8%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "30,077\n35.0%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "25,097\n29.2%",
+        "party": "自民（公）"
+      }
+    ]
+  },
+  {
+    "name": "台東区",
+    "results": [
+      {
+        "num_votes": "17,595\n25.3%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "16,373\n23.5%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "15,028\n21.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "12,163\n17.5%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "6,145\n8.8%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "1,583\n2.3%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "779\n1.1%",
+        "party": "無所属"
+      }
+    ]
+  },
+  {
+    "name": "墨田区",
+    "results": [
+      {
+        "num_votes": "23,455\n23.8%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "19,763\n20.1%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "19,526\n19.8%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "15,755\n16.0%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "13,386\n13.6%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "6,610\n6.7%",
+        "party": "国民"
+      }
+    ]
+  },
+  {
+    "name": "江東区",
+    "results": [
+      {
+        "num_votes": "31,864\n17.7%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "31,812\n17.7%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "29,136\n16.2%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "27,650\n15.4%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "24,215\n13.5%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "19,137\n10.7%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "12,417\n6.9%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "3,342\n1.9%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "品川区",
+    "results": [
+      {
+        "num_votes": "23,188\n16.4%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "22,413\n15.8%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "20,552\n14.5%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "20,087\n14.2%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "19,696\n13.9%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "18,281\n12.9%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "16,610\n11.7%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "804\n0.6%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "目黒区",
+    "results": [
+      {
+        "num_votes": "23,117\n23.5%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "16,515\n16.8%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "16,044\n16.3%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "16,038\n16.3%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "13,509\n13.8%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "10,342\n10.5%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "2,662\n2.7%",
+        "party": "無所属"
+      }
+    ]
+  },
+  {
+    "name": "大田区",
+    "results": [
+      {
+        "num_votes": "34,328\n13.2%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "29,701\n11.4%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "27,001\n10.4%",
+        "party": "立民（ネ・社）"
+      },
+      {
+        "num_votes": "26,244\n10.1%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "25,770\n9.9%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "25,014\n9.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "23,062\n8.9%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "20,373\n7.8%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "19,793\n7.6%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "12,835\n4.9%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "8,943\n3.4%",
+        "party": "国民"
+      },
+      {
+        "num_votes": "4,213\n1.6%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "1,548\n0.6%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "1,012\n0.4%",
+        "party": "諸派（嵐）"
+      },
+      {
+        "num_votes": "502\n0.2%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "世田谷区",
+    "results": [
+      {
+        "num_votes": "43,096\n13.1%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "34,225\n10.4%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "32,200\n9.8%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "26,486\n8.1%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "25,819\n7.9%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "25,644\n7.8%",
+        "party": "立民"
+      },
+      {
+        "num_votes": "23,849\n7.3%",
+        "party": "立民（社）"
+      },
+      {
+        "num_votes": "22,040\n6.7%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "19,954\n6.1%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "19,075\n5.8%",
+        "party": "ネット（立）"
+      },
+      {
+        "num_votes": "17,207\n5.2%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "16,344\n5.0%",
+        "party": "れいわ"
+      },
+      {
+        "num_votes": "7,925\n2.4%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "7,859\n2.4%",
+        "party": "国民"
+      },
+      {
+        "num_votes": "2,896\n0.9%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "1,962\n0.6%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "1,531\n0.5%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "585\n0.2%",
+        "party": "無所属"
+      }
+    ]
+  },
+  {
+    "name": "渋谷区",
+    "results": [
+      {
+        "num_votes": "22,204\n31.1%",
+        "party": "立民"
+      },
+      {
+        "num_votes": "16,346\n22.9%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "15,575\n21.8%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "14,241\n20.0%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "3,010\n4.2%",
+        "party": "無所属"
+      }
+    ]
+  },
+  {
+    "name": "中野区",
+    "results": [
+      {
+        "num_votes": "35,749\n30.0%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "32,743\n27.5%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "24,364\n20.4%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "22,527\n18.9%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "3,826\n3.2%",
+        "party": "無所属"
+      }
+    ]
+  },
+  {
+    "name": "杉並区",
+    "results": [
+      {
+        "num_votes": "30,369\n14.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "27,437\n13.2%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "24,735\n11.9%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "23,827\n11.5%",
+        "party": "立民"
+      },
+      {
+        "num_votes": "23,538\n11.3%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "22,653\n10.9%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "16,417\n7.9%",
+        "party": "ネット（立）"
+      },
+      {
+        "num_votes": "13,312\n6.4%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "12,959\n6.2%",
+        "party": "れいわ"
+      },
+      {
+        "num_votes": "9,044\n4.3%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "2,439\n1.2%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "1,265\n0.6%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "豊島区",
+    "results": [
+      {
+        "num_votes": "24,586\n25.5%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "21,890\n22.7%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "19,925\n20.7%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "17,747\n18.4%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "11,157\n11.6%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "1,069\n1.1%",
+        "party": "嵐"
+      }
+    ]
+  },
+  {
+    "name": "北区",
+    "results": [
+      {
+        "num_votes": "30,417\n23.1%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "29,416\n22.4%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "27,580\n21.0%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "23,323\n17.7%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "20,755\n15.8%",
+        "party": "都ファ"
+      }
+    ]
+  },
+  {
+    "name": "荒川区",
+    "results": [
+      {
+        "num_votes": "19,493\n27.2%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "17,138\n23.9%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "14,249\n19.9%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "11,885\n16.6%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "5,023\n7.0%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "3,789\n5.3%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "板橋区",
+    "results": [
+      {
+        "num_votes": "33,835\n17.7%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "31,201\n16.3%",
+        "party": "立民（社）"
+      },
+      {
+        "num_votes": "29,767\n15.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "25,703\n13.4%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "25,027\n13.1%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "24,066\n12.6%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "13,091\n6.8%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "6,788\n3.5%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "902\n0.5%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "836\n0.4%",
+        "party": "無所属"
+      }
+    ]
+  },
+  {
+    "name": "練馬区",
+    "results": [
+      {
+        "num_votes": "37,209\n14.2%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "35,286\n13.5%",
+        "party": "立民（社）"
+      },
+      {
+        "num_votes": "32,963\n12.6%",
+        "party": "共産（社）"
+      },
+      {
+        "num_votes": "26,341\n10.0%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "25,183\n9.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "20,839\n7.9%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "20,460\n7.8%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "19,695\n7.5%",
+        "party": "無所属（立・ネ・社）"
+      },
+      {
+        "num_votes": "17,718\n6.8%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "17,119\n6.5%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "3,669\n1.4%",
+        "party": "諸派（嵐）"
+      },
+      {
+        "num_votes": "3,368\n1.3%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "1,344\n0.5%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "959\n0.4%",
+        "party": "嵐"
+      }
+    ]
+  },
+  {
+    "name": "足立区",
+    "results": [
+      {
+        "num_votes": "34,223\n15.1%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "29,756\n13.1%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "29,365\n12.9%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "28,423\n12.5%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "28,365\n12.5%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "27,493\n12.1%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "18,698\n8.2%",
+        "party": "立民"
+      },
+      {
+        "num_votes": "15,309\n6.7%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "7,996\n3.5%",
+        "party": "れいわ"
+      },
+      {
+        "num_votes": "3,924\n1.7%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "3,383\n1.5%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "葛飾区",
+    "results": [
+      {
+        "num_votes": "30,725\n20.9%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "24,498\n16.7%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "23,063\n15.7%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "22,404\n15.2%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "16,595\n11.3%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "15,443\n10.5%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "4,283\n2.9%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "2,499\n1.7%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "1,892\n1.3%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "1,862\n1.3%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "1,497\n1.0%",
+        "party": "諸派（嵐）"
+      },
+      {
+        "num_votes": "1,326\n0.9%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "929\n0.6%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "江戸川区",
+    "results": [
+      {
+        "num_votes": "43,077\n20.0%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "40,061\n18.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "27,509\n12.8%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "24,960\n11.6%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "24,827\n11.5%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "24,584\n11.4%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "20,109\n9.3%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "10,503\n4.9%",
+        "party": "維新"
+      }
+    ]
+  },
+  {
+    "name": "八王子市",
+    "results": [
+      {
+        "num_votes": "45,053\n22.8%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "28,490\n14.4%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "26,004\n13.2%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "23,132\n11.7%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "21,786\n11.0%",
+        "party": "立民（ネ・社）"
+      },
+      {
+        "num_votes": "20,937\n10.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "19,991\n10.1%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "8,044\n4.1%",
+        "party": "維新"
+      },
+      {
+        "num_votes": "3,095\n1.6%",
+        "party": "諸派"
+      },
+      {
+        "num_votes": "1,048\n0.5%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "立川市",
+    "results": [
+      {
+        "num_votes": "20,633\n37.0%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "20,470\n36.7%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "14,619\n26.2%",
+        "party": "都ファ"
+      }
+    ]
+  },
+  {
+    "name": "武蔵野市",
+    "results": [
+      {
+        "num_votes": "26,878\n46.7%",
+        "party": "立民（ネ・社）"
+      },
+      {
+        "num_votes": "14,751\n25.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "14,706\n25.5%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "1,229\n2.1%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "三鷹市",
+    "results": [
+      {
+        "num_votes": "28,112\n42.8%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "20,162\n30.7%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "17,335\n26.4%",
+        "party": "自民（公）"
+      }
+    ]
+  },
+  {
+    "name": "青梅市",
+    "results": [
+      {
+        "num_votes": "26,344\n62.1%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "16,045\n37.9%",
+        "party": "自民（公）"
+      }
+    ]
+  },
+  {
+    "name": "府中市",
+    "results": [
+      {
+        "num_votes": "41,037\n51.5%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "23,335\n29.3%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "15,329\n19.2%",
+        "party": "共産"
+      }
+    ]
+  },
+  {
+    "name": "昭島市",
+    "results": [
+      {
+        "num_votes": "16,078\n45.9%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "12,158\n34.7%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "6,820\n19.5%",
+        "party": "共産（社）"
+      }
+    ]
+  },
+  {
+    "name": "町田市",
+    "results": [
+      {
+        "num_votes": "27,006\n17.3%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "25,951\n16.7%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "21,445\n13.8%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "20,298\n13.0%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "17,000\n10.9%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "15,543\n10.0%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "14,223\n9.1%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "13,952\n9.0%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "427\n0.3%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "小金井市",
+    "results": [
+      {
+        "num_votes": "18,789\n45.4%",
+        "party": "無所属（共・立・ネ・社）"
+      },
+      {
+        "num_votes": "14,097\n34.1%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "8,502\n20.5%",
+        "party": "都ファ"
+      }
+    ]
+  },
+  {
+    "name": "小平市",
+    "results": [
+      {},
+      {
+        "num_votes": "\n        \n          \n\n\n\n        \n      ",
+        "party": "立民（ネ・社）"
+      },
+      {
+        "num_votes": "\n        \n          \n\n\n\n        \n      ",
+        "party": "自民（公）"
+      }
+    ]
+  },
+  {
+    "name": "日野市",
+    "results": [
+      {
+        "num_votes": "21,819\n35.9%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "20,520\n33.8%",
+        "party": "共産（社）"
+      },
+      {
+        "num_votes": "18,458\n30.4%",
+        "party": "自民（公）"
+      }
+    ]
+  },
+  {
+    "name": "西東京市",
+    "results": [
+      {
+        "num_votes": "21,160\n31.6%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "18,580\n27.7%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "16,751\n25.0%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "10,534\n15.7%",
+        "party": "共産"
+      }
+    ]
+  },
+  {
+    "name": "西多摩",
+    "results": [
+      {
+        "num_votes": "27,748\n38.5%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "26,507\n36.8%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "15,077\n20.9%",
+        "party": "立民（ネ・社）"
+      },
+      {
+        "num_votes": "2,126\n3.0%",
+        "party": "無所属"
+      },
+      {
+        "num_votes": "555\n0.8%",
+        "party": "諸派"
+      }
+    ]
+  },
+  {
+    "name": "南多摩",
+    "results": [
+      {
+        "num_votes": "29,233\n33.9%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "24,823\n28.8%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "20,753\n24.1%",
+        "party": "立民（ネ）"
+      },
+      {
+        "num_votes": "11,333\n13.2%",
+        "party": "共産"
+      }
+    ]
+  },
+  {
+    "name": "北多摩一",
+    "results": [
+      {
+        "num_votes": "29,386\n28.0%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "20,807\n19.8%",
+        "party": "共産"
+      },
+      {
+        "num_votes": "19,994\n19.0%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "19,564\n18.6%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "15,385\n14.6%",
+        "party": "立民（ネ）"
+      }
+    ]
+  },
+  {
+    "name": "北多摩二",
+    "results": [
+      {
+        "num_votes": "25,578\n34.6%",
+        "party": "ネット（立）"
+      },
+      {
+        "num_votes": "24,037\n32.5%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "16,695\n22.6%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "7,689\n10.4%",
+        "party": "国民"
+      }
+    ]
+  },
+  {
+    "name": "北多摩三",
+    "results": [
+      {
+        "num_votes": "31,103\n26.2%",
+        "party": "都ファ"
+      },
+      {
+        "num_votes": "24,060\n20.3%",
+        "party": "自民"
+      },
+      {
+        "num_votes": "21,872\n18.4%",
+        "party": "公明"
+      },
+      {
+        "num_votes": "21,518\n18.1%",
+        "party": "共産（社）"
+      },
+      {
+        "num_votes": "20,069\n16.9%",
+        "party": "立民"
+      }
+    ]
+  },
+  {
+    "name": "北多摩四",
+    "results": [
+      {
+        "num_votes": "21,939\n34.8%",
+        "party": "共産（社）"
+      },
+      {
+        "num_votes": "21,202\n33.6%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "19,893\n31.6%",
+        "party": "都ファ"
+      }
+    ]
+  },
+  {
+    "name": "島部",
+    "results": [
+      {
+        "num_votes": "8,907\n81.9%",
+        "party": "自民（公）"
+      },
+      {
+        "num_votes": "1,970\n18.1%",
+        "party": "共産"
+      }
+    ]
+  }
+]
